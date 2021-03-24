@@ -1,0 +1,25 @@
+{
+  "name": "rn-fab-button",
+  "version": "1.0.4",
+  "description": "A customizable fab-button component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masquerade-x/react-native-floating-buttons.git"
+  },
+  "keywords": [
+    "npm",
+    "react-native",
+    "fab-buttons",
+    "floating-buttons"
+  ],
+  "author": "Rachit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masquerade-x/react-native-floating-buttons/issues"
+  },
+  "homepage": "https://github.com/Masquerade-x/react-native-floating-buttons#readme"
+}
