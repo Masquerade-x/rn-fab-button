@@ -23,7 +23,7 @@ Kindly install @react-native-vector-icons before you start using this component.
 ## Usage
 
 ```javascript
-import Icon from "react-native-vector-icons/FontAwesome";
+import { FloatingButton } from "rn-fab-button";
 
 <FloatingButton
   noOfButtons={2}
